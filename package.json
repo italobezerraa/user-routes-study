@@ -2,6 +2,9 @@
   "name": "user-authentication-api",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "build": "tsc -p ."
+  },
   "repository": "https://github.com/italobezerraa/user-authentication-api.git",
   "author": "Italo Bezerra <contato.italocarlosbezerra@gmail.com>",
   "license": "MIT",
