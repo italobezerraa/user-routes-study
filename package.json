@@ -6,6 +6,7 @@
   "author": "Italo Bezerra <contato.italocarlosbezerra@gmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "@types/node": "^18.11.9",
     "typescript": "^4.9.3"
   }
 }
